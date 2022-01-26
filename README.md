@@ -7,6 +7,7 @@ A webpage that can display current weather conditions as well as a five day fore
 Enter the city in the search bar and hit the search icon for current weather conditions as well as a five day outlook.  Up to eight cities can be saved at a time, just click on the city to refer back to previous search results.
 
 ## Images
+![Alt text}(https://github.com/mweyer/weather-outlook/blob/main/Images/homepage-ss.png)
 
 
 
