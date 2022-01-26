@@ -8,6 +8,7 @@ Enter the city in the search bar and hit the search icon for current weather con
 
 ## Images
 ![Alt text](https://github.com/mweyer/weather-outlook/blob/main/Images/homepage-ss.png)
+(https://github.com/mweyer/weather-outlook/blob/main/Images/local-ss.png)
 
 
 
