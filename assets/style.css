@@ -1,0 +1,43 @@
+#page_header{
+    text-align: center;
+    background-color: #0703f3   ;
+    font-family: 'Open Sans Condensed', sans-serif;
+    color: white
+
+}
+
+body {
+    background-color: #30774d;
+}
+
+.listbtn{
+    background-color: #0703f3  ;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-radius: 2px; 
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+    margin-top: 2px;
+    margin-bottom: 2px;
+
+}
+
+.left_div{
+    
+    height: 100%; 
+}
+
+.card-body{
+    background-color: #0703f3   ;
+    color: white;
+}
+
+#searchbtn{
+    background-color: #0703f3   ;
+    color: white;
+    font-family: 'Open Sans Condensed', sans-serif;
+    border-radius: 2px; 
+    
+
+}
